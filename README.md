@@ -1,11 +1,13 @@
-# Uniswap V2
+# Dharma V2
 
-[![Actions Status](https://github.com/Uniswap/uniswap-v2-periphery/workflows/CI/badge.svg)](https://github.com/Uniswap/uniswap-v2-periphery/actions)
-[![npm](https://img.shields.io/npm/v/@uniswap/v2-periphery?style=flat-square)](https://npmjs.com/package/@uniswap/v2-periphery)
 
-In-depth documentation on Uniswap V2 is available at [uniswap.org](https://uniswap.org/docs).
+This repository contains the periphery smart contracts for the Dharma V2 Protocol.
 
-The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@uniswap/v2-periphery@latest/).
+The corresponding [npm package](https://www.npmjs.com/package/dharma-v2-periphery) can be installed with:
+
+```
+npm install dharma-v2-periphery
+```
 
 # Local Development
 
